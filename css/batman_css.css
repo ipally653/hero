@@ -1,0 +1,103 @@
+html,body
+{
+	font-family: Arial, sans-serif;
+	margin: 0;
+	background-color: black;
+}
+header
+{
+	background-color: black;
+	padding: 40px;
+	text-align: center;
+}
+
+h1
+{
+	font-size: 90px;
+	color: grey;
+}
+header img
+{
+	border-radius: 150px;
+	width: 300px;
+	border: 10px solid grey; 
+}
+
+.content
+{
+	max-width: 900px;
+	margin: 0 auto;
+	color: grey;
+	margin 0;
+	padding: 0 20px;
+}
+footer
+{
+	text-align: center;
+}
+footer ul
+{
+	text-align: center;
+	display: inline-block;
+	margin: 0 5px;
+}
+
+img.big_image
+{
+	max-width: 100%;
+	border: 10px solid grey;
+}
+
+p.caption
+{
+	font-size: 10px;
+	color: grey;
+	font-style: italic;
+}
+ul
+{
+	list-style: none;
+	padding: 0
+	margin: 0;
+}
+a
+{
+	color: yellow;
+	text-decoration: none;
+}
+.gitlink
+{
+	color: blue;
+	text-decoration: underline;
+}
+footer
+{
+	padding: 40px 20px;
+	background-color: black;
+	color: white
+
+}
+
+/*<div class = "content">
+		<h2>About Batman</h2>
+		<p>
+			Parents dun got killed brah, punches criminal boyes for therapy.
+		</p>
+		<h2>Batman's Characteristics</h2>
+		<ol>
+			<li>No superpowers</li>
+			<li>lots of money</li>
+			<li>definitely lifts</li>
+		</ol>
+		<img class="big-image" src="img/big-image.jpg">
+		<p class = "caption">Batman in action</p>
+		<h2>Batman's Friends</h2>
+		<ul>
+			<li><a href= "https://en.wikipedia.org/wiki/Dick_Grayson">Robin</li>
+			<li><a href="https://en.wikipedia.org/wiki/Robin_(character)#Damian_Wayne">Robin</a> but also son boye</li>
+			<li><a href= "https://en.wikipedia.org/wiki/Robin_(character)#Jason_Todd">Robin</a> but also criminal boye</li>
+			<li><a href="https://en.wikipedia.org/wiki/Robin_(character)#Tim_Drake">Robin</a> but also red boye</li>
+			<li><a href="https://en.wikipedia.org/wiki/Robin_(character)#Carrie_Kelley">Robin</a> but also gril</li>
+			<li><a href="https://en.wikipedia.org/wiki/Catwoman">Cat lady</a></li>
+		</ul>
+	</div>*/
